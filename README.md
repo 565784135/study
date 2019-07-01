@@ -42,7 +42,3 @@ git branch -a 查看
 git mergetool 解决冲突
 git remote -v  
 
-<<<<<<< HEAD
-4. dev
-=======
->>>>>>> dev
