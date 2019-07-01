@@ -8,7 +8,8 @@
 分布式版本控制  
 已提交(committed)、已修改(modified)和已暂存(staged)  
 git config [--global] --list  查看配置  
-git config [--global] user.name "cheng" 设置配置  
+git config [--global] user.name "cheng" 设置配置   
+git config --global  merge.tool 'tortoisemerge'  设置合并工具  
 git help \<verb\>  
 git \<verb\> --help
 
@@ -37,5 +38,7 @@ git branch [branch-name] 创建分支
 git checkout [branch-name] 切换分支  
 git merge [branch-name]  合并分支  
 git branch -d [branch-name] 删除
+git branch -a 查看  
+git mergetool 解决冲突
 
 4. dev
