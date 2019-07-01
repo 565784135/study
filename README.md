@@ -41,4 +41,11 @@ git branch -d [branch-name] 删除
 git branch -a 查看  
 git mergetool 解决冲突
 git remote -v  
+git rebase 变基(*只在个人分支使用)
 
+4. 搭建git服务器
+
+
+5. 分布式git
+
+6. GitHub
