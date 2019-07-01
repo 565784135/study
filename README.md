@@ -40,5 +40,5 @@ git merge [branch-name]  合并分支
 git branch -d [branch-name] 删除
 git branch -a 查看  
 git mergetool 解决冲突
+git remote -v  
 
-4. dev
